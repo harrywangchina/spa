@@ -68,7 +68,7 @@ spa.fake = (function () {
           };
           peopleList.push( person_map );
           callback_map.userupdate([ person_map ]);
-        }, 3000 );
+        }, 1000 );
       }
 
       // Respond to 'updatechat' event with an 'updatechat'
