@@ -1,0 +1,25 @@
+{
+  "name": "spa-in-action",
+  "version": "1.0.0",
+  "description": "Personal spa project, just for fun!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrywangchina/spa.git"
+  },
+  "keywords": [
+    "spa"
+  ],
+  "author": "Wang Hao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrywangchina/spa/issues"
+  },
+  "homepage": "https://github.com/harrywangchina/spa#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
