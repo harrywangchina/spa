@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/harrywangchina/spa#readme",
   "dependencies": {
-    "express": "3.2.x",
+    "express": "4.17.x",
     "mongodb": "3.2.x",
     "socket.io": "0.9.x"
   }
